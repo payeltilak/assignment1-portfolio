@@ -1,0 +1,33 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.change-color{
+    color: rgb(112, 13, 112);
+}
+
+
+
+.line{
+    border-left: 2px solid;
+    border-image:none;
+    border-image-slice: 1;
+
+}
+.click{
+    background-color: red;
+    padding: 5%;
+    border-radius: 5px;
+}
+
+
+.half-width{
+    display: flex;
+    padding: 20%;
+    width:auto;
+    margin: auto;
+    
+    
+
+}
