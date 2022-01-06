@@ -13,7 +13,7 @@ body{
 }
 .line{
     border-left: 2px solid;
-    border-color: rgb(156, 72, 72)
+    border-color: rgb(129, 27, 27);
       
 }
 .button{
@@ -177,7 +177,7 @@ body{
 .paragraph{
     text-align:left;
     width: 60%;
-    padding-right: 30px;
+    padding-right: 65px;
 }
 .hardwork{
     background-color: black;
@@ -186,6 +186,9 @@ body{
     text-align: center;
     margin-left :40px; ;
 
+}
+.last-shot{
+    color: slateblue;
 }
 
 
