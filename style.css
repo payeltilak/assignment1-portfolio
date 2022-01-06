@@ -1,7 +1,5 @@
 
-h1{
-    font-size: 40px;
-}
+
 .color-change{
     color: darkorchid;
 }
@@ -16,47 +14,115 @@ h1{
     padding: 10px 30px;
     border-radius: 5px;
 }
-.picture{
-    width: 80%;
+.picture img{
+    width: 70%;
 }
 .half-width{
     display: flex;
-    width: 50%;
-    padding-left:15% ;
+    width: 80%;
+    padding-left:25% ;
+    
 
 
-}
-.half-width img{
-    width:100%
 
 }
+
 .small{
-    color:darkviolet;
+    color:rgb(160, 134, 172);
 }
 .middle{
  text-align: center;
+ 
     
 }
-.mission{
-    background-color: rgb(97, 121, 145);
-    border-radius: 15px;
-    
-
-}
-.mission-img{
-    width: 30%;
-}
-
-.vission{
-    background-color: rgb(138, 89, 105);
-    border-radius: 15px;
-}
-.goals{
-    background-color: rgb(145, 24, 145);
-    border-radius: 15px;
+.middle h1{
+    margin-top: 50px;
 }
 .good-student{
     display: flex;
-    justify-content: space-between;
+  
+    width: 100%;
+}
+
+.mission{
+    background-color: rgb(141, 152, 163);
+    border-radius: 20px;
+    margin: 0 30px;
+    width: 30%;
+    padding-left: 40px;
+    
+
+}
+
+
+.mission p{
+    width: 100%;
+    margin-right: 10px;
+}
+.mission img{
+    width: 50%;
+}
+.vission{
+    background-color: rgb(192, 157, 169);
+    border-radius: 20px;
+    margin: 0 30px;
+    width: 30%;
+    height: 20%;
+    padding-left: 40px;
+}
+.vission p{
+    width:100%;
+    margin-right: 10px;
+}
+.vission img{
+    width:50%;
+}
+.goals{
+    background-color:paleturquoise;
+    border-radius: 20px;
+    margin: 0 30px;
+    width: 30%;
+    padding-left: 40px;
+
+
+}
+.goals p{
+    width:100%;
+    margin-right: 10px;
+}
+.goals img{
+    width:50%;
+}
+
+.limit{
+    display: flex;
+   justify-content: center; 
+   align-items: center;
+    width: 100%;
+   
+}
+.coding{
+    width: 50%;
+}
+.coding img{
+    width: 50%;
+    padding-left: 100px;
+    padding-top: 10%;
+    
+}
+.improve{
+    padding-right: 600px;
+    
+    
+
+}
+.document{
+    text-decoration: none;
+   background-color: cornflowerblue;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin: 10px;
+    width: 100%;
+    
 }
 
