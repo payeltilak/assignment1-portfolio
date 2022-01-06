@@ -1,3 +1,6 @@
+body{
+    width: 80%;
+}
 
 
 .color-change{
@@ -96,23 +99,24 @@
 
 .limit{
     display: flex;
-   justify-content: center; 
-   align-items: center;
-    width: 100%;
+    width: 80%;
+    margin: 0 auto;
    
 }
 .coding{
     width: 50%;
 }
 .coding img{
-    width: 50%;
+    width : 200px;
     padding-left: 100px;
     padding-top: 10%;
     
 }
 .improve{
-    padding-right: 600px;
-    
+    width: 80%;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 20px;
     
 
 }
@@ -124,5 +128,24 @@
     margin: 10px;
     width: 100%;
     
+}
+.process{
+    width:50%;
+}
+.process img{
+    width:200px;
+    padding-right: 20%;
+
+
+}
+.global-text{
+    width: 80%;
+}
+
+.global{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
 }
 
