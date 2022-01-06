@@ -33,5 +33,30 @@ h1{
 .small{
     color:darkviolet;
 }
+.middle{
+ text-align: center;
+    
+}
+.mission{
+    background-color: rgb(97, 121, 145);
+    border-radius: 15px;
+    
 
+}
+.mission-img{
+    width: 30%;
+}
+
+.vission{
+    background-color: rgb(138, 89, 105);
+    border-radius: 15px;
+}
+.goals{
+    background-color: rgb(145, 24, 145);
+    border-radius: 15px;
+}
+.good-student{
+    display: flex;
+    justify-content: space-between;
+}
 
