@@ -148,4 +148,45 @@ body{
     margin: 0 auto;
     margin-top: 20px;
 }
+.application{
+    text-align: center;
+    padding-top: 20px;
+}
+.student{
+    color: palevioletred;
+}
+.mobile{
+    width: 50%;
+}
+.mobile img{
+  width: 200px;
+  padding-left: 40%;
+}
+.portal{
+    color: purple;
+}
+
+
+
+.details{
+    text-decoration: none;
+   background-color:cornflowerblue;
+    padding: 10px 30px;
+    border-radius: 5px;
+    
+
+
+}
+
+.form{
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 20px;
+
+}
+.paragraph{
+    text-align:left;
+    width: 60%;
+}
 
