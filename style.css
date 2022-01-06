@@ -1,57 +1,55 @@
 body{
-    width: 80%;
+    margin: 0;
+    padding: 0;
 }
 .half-width{
     display: flex;
-    width: 80%;
-    padding-left:25% ;
+    width: 90%;
+    margin: 0 auto;
+    
 }
 .color-change{
-    color:purple;
+    color:orangered;
 }
 .line{
     border-left: 2px solid;
-    border-color: red;
-    
+    border-color: rgb(156, 72, 72)
+      
 }
 .button{
     text-decoration: none;
-   background-color: cornflowerblue;
+   background-color: blue;
+   color: white;
+
     padding: 10px 30px;
     border-radius: 5px;
 }
 .picture img{
-    width: 70%;
+    width: 50%;
 }
 
-
-.small{
-    color:rgb(160, 134, 172);
-}
 .middle{
- text-align: center;
- 
-    
+ text-align: center;   
+ margin-top: 30px;
 }
 .middle h1{
     margin-top: 50px;
+}
+.small{
+    color: rgb(245, 54, 92);
 }
 .good-student{
     display: flex;
   
     width: 100%;
 }
-
 .mission{
     background-color: rgb(141, 152, 163);
     border-radius: 20px;
     margin: 0 30px;
     width: 30%;
     padding-left: 40px;
-    
-
 }
-
 
 .mission p{
     width: 100%;
@@ -96,6 +94,8 @@ body{
     display: flex;
     width: 80%;
     margin: 0 auto;
+    margin-top: 30px;
+
    
 }
 .coding{
@@ -112,17 +112,15 @@ body{
     text-align: left;
     margin-left: 50px;
     margin-top: 20px;
-    
-
 }
 .document{
     text-decoration: none;
-   background-color: cornflowerblue;
+   background-color: blue;
+   color: white;
     padding: 10px 15px;
     border-radius: 5px;
     margin: 10px;
-    width: 100%;
-    
+    width: 100%;   
 }
 .process{
     width:50%;
@@ -141,7 +139,7 @@ body{
     display: flex;
     width: 80%;
     margin: 0 auto;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 .application{
     text-align: center;
@@ -160,16 +158,12 @@ body{
 .portal{
     color:rgb(187, 30, 82);
 }
-
-
-
 .details{
     text-decoration: none;
-   background-color:cornflowerblue;
+   background-color:blue;
+   color: white;
     padding: 10px 30px;
     border-radius: 5px;
-    
-
 
 }
 
@@ -177,12 +171,13 @@ body{
     display: flex;
     width: 100%;
     margin: 0 auto;
-    margin-top: 20px;
+    margin-top: 30px;
 
 }
 .paragraph{
     text-align:left;
     width: 60%;
+    padding-right: 30px;
 }
 .hardwork{
     background-color: black;
