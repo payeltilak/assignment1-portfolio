@@ -1,33 +1,37 @@
-body{
-    margin: 0%;
-    padding: 0%;
+
+h1{
+    font-size: 40px;
 }
-
-.change-color{
-    color: rgb(112, 13, 112);
+.color-change{
+    color: darkorchid;
 }
-
-
-
 .line{
     border-left: 2px solid;
-    border-image:none;
-    border-image-slice: 1;
-
+    border-color: red;
+    
 }
-.click{
-    background-color: red;
-    padding: 5%;
+.button{
+    text-decoration: none;
+   background-color: cornflowerblue;
+    padding: 10px 30px;
     border-radius: 5px;
 }
-
-
+.picture{
+    width: 80%;
+}
 .half-width{
     display: flex;
-    padding: 20%;
-    width:auto;
-    margin: auto;
-    
-    
+    width: 50%;
+    padding-left:15% ;
+
 
 }
+.half-width img{
+    width:100%
+
+}
+.small{
+    color:darkviolet;
+}
+
+
